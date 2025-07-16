@@ -1,3 +1,5 @@
+TODO: add OpenAI API.
+
 # History Learner 📚
 
 Een Streamlit-applicatie voor het leren van geschiedenis examens met automatische flashcard generatie, tijdlijn visualisatie en spaced repetition.
